@@ -1,4 +1,3 @@
-/*! For license information please see main.757d7beb.js.LICENSE.txt */
 !function() {
     var e = {
         9294: function(e, t, n) {
